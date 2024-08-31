@@ -6,18 +6,18 @@ Welcome to my C Programming Portfolio! This repository contains a collection of 
 
 The repository is organized into the following directories, each containing C programs related to specific topics or assignments:
 
-- **IO ASMT 1:** Input/Output programs, covering various methods of reading and writing data.
+- **IO ASMT 1:** Input/Output programs.
 - **OPERATOR ASMT 3, 4:** Programs focusing on the use of operators.
 - **DECISION ASMT 5, 6:** Decision-making programs using `if-else` and `switch` statements.
 - **ITERATIVE ASMT 7, 8:** Iterative processes using loops (for, while, do-while).
-- **LOOP ASMT 9, 10:** Deep dive into loop structures for repetitive tasks.
+- **LOOP ASMT 9, 10:** Loop structures for repetitive tasks.
 - **STAR PATTERN ASMT 11, 12:** Creating patterns using nested loops.
 - **SWITCH CASE ASMT 13:** Programs using switch-case for decision making.
-- **FUNCTION ASMT 14, 15:** Functions and modular programming in C.
+- **FUNCTION ASMT 14, 15:** Functions programming in C.
 - **RECURSION ASMT 16, 17:** Recursive functions and algorithms.
 - **ARRAY ASMT 18, 19, 20:** Programs focusing on array manipulation and operations.
 - **STRING ASMT 21, 22, 23, 24:** String manipulation and operations.
-- **POINTER ASMT 25:** Introduction to pointers and their applications.
+- **POINTER ASMT 25:**  Pointers programs.
 - **STRUCTURE ASMT 26:** Working with structures in C.
 - **DMA ASMT 27:** Dynamic Memory Allocation programs.
 - **MIXED CON ASMT 28:** Mixed concepts combining multiple topics in C.
